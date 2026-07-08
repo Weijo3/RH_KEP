@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koe-eläinpuisto</title>
+    <link>https://hipster.fi/kep/shows/</link>
+    <atom:link href="https://raw.githubusercontent.com/Weijo3/RH_KEP/refs/heads/main/RH_KEP2.xml" rel="self" type="application/rss+xml" />
+    <language>fi</language>
+    <description>Koe-eläinpuisto podcast - arkistoituja lähetyksiä.</description>
+    <itunes:author>Koe-eläinpuisto</itunes:author>
+    <itunes:summary>Koe-eläinpuisto podcast - arkistoituja lähetyksiä.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Koe-eläinpuisto</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Comedy"/>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>Monitasomannekiinin joululähetys (19.12.2015)</title>
+      <description>Monitasomannekiinin joululähetys (19.12.2015)</description>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep19122015.mp3" length="115179648" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep19122015.mp3</guid>
+    </item>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>Madagascarin matkalla (12.12.2015)</title>
+      <description>Madagascarin matkalla (12.12.2015)</description>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep12122015_2.mp3" length="111166289" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep12122015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 3 -->
+    <item>
+      <title>Tapaamassa Koe-eläinpuisto-äänestyksen voittajapariskuntaa (12.12.2015)</title>
+      <description>Tapaamassa Koe-eläinpuisto-äänestyksen voittajapariskuntaa (12.12.2015)</description>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep12122015.mp3" length="115187840" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep12122015.mp3</guid>
+    </item>
+
+    <!-- Episode 4 -->
+    <item>
+      <title>Nasarabin korallisaarella (5.12.2015)</title>
+      <description>Nasarabin korallisaarella (5.12.2015)</description>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep05122015_2.mp3" length="11104437" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep05122015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 5 -->
+    <item>
+      <title>Lapsirobotit (5.12.2015)</title>
+      <description>Lapsirobotit (5.12.2015)</description>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep05122015.mp3" length="115173504" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep05122015.mp3</guid>
+    </item>
+
+    <!-- Episode 6 -->
+    <item>
+      <title>Reino Hiltusen kotona kimppakämppähotellissa (28.11.2015)</title>
+      <description>Reino Hiltusen kotona kimppakämppähotellissa (28.11.2015)</description>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep28112015_2.mp3" length="111255361" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep28112015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 7 -->
+    <item>
+      <title>Radio Mafian pikkujouluristeilyllä (28.11.2015)</title>
+      <description>Radio Mafian pikkujouluristeilyllä (28.11.2015)</description>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep28112015.mp3" length="115193984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep28112015.mp3</guid>
+    </item>
+
+    <!-- Episode 8 -->
+    <item>
+      <title>Lasten päiväkoti Vekkuli Vekkula (21.11.2015)</title>
+      <description>Lasten päiväkoti Vekkuli Vekkula (21.11.2015)</description>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep21112015_2.mp3" length="111195987" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep21112015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 9 -->
+    <item>
+      <title>Ruuanvalmistusta Stadin Kundi -keittokirjan mukaan (21.11.2015)</title>
+      <description>Ruuanvalmistusta Stadin Kundi -keittokirjan mukaan (21.11.2015)</description>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep21112015.mp3" length="115159168" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep21112015.mp3</guid>
+    </item>
+
+    <!-- Episode 10 -->
+    <item>
+      <title>Kitaranrakennuskurssi kakkonen (14.11.2015)</title>
+      <description>Kitaranrakennuskurssi kakkonen (14.11.2015)</description>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep14112015_2.mp3" length="111206431" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep14112015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 11 -->
+    <item>
+      <title>Kulosaaressa Pentti ja Raili Hyppösen vieraina (14.11.2015)</title>
+      <description>Kulosaaressa Pentti ja Raili Hyppösen vieraina (14.11.2015)</description>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep14112015.mp3" length="115191936" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep14112015.mp3</guid>
+    </item>
+
+    <!-- Episode 12 -->
+    <item>
+      <title>Pohjois-Euroopan suurimmassa ostosparatiisissa (7.11.2015)</title>
+      <description>Pohjois-Euroopan suurimmassa ostosparatiisissa (7.11.2015)</description>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep07112015.mp3" length="115165312" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep07112015.mp3</guid>
+    </item>
+
+    <!-- Episode 13 -->
+    <item>
+      <title>Tutustumassa taidetalo Koliikkiin (7.11.2015)</title>
+      <description>Tutustumassa taidetalo Koliikkiin (7.11.2015)</description>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep07112015_2.mp3" length="111307582" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep07112015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 14 -->
+    <item>
+      <title>Ihannematkat Oy:n mysteerimatkalla (31.10.2015)</title>
+      <description>Ihannematkat Oy:n mysteerimatkalla (31.10.2015)</description>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep31102015.mp3" length="115175552" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep31102015.mp3</guid>
+    </item>
+
+    <!-- Episode 15 -->
+    <item>
+      <title>Vaeltamassa Tammisaareen (31.10.2015)</title>
+      <description>Vaeltamassa Tammisaareen (31.10.2015)</description>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep31102015_2.mp3" length="111178834" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep31102015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 16 -->
+    <item>
+      <title>Kuntokikka-kerhon harjoituksissa (24.10.2015)</title>
+      <description>Kuntokikka-kerhon harjoituksissa (24.10.2015)</description>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep24102015.mp3" length="115189888" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep24102015.mp3</guid>
+    </item>
+
+    <!-- Episode 17 -->
+    <item>
+      <title>Helsingin hyvinvointimessuilla (24.10.2015)</title>
+      <description>Helsingin hyvinvointimessuilla (24.10.2015)</description>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep24102015_2.mp3" length="111141648" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep24102015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 18 -->
+    <item>
+      <title>Energiapuisto Hamsterissa (17.10.2015)</title>
+      <description>Energiapuisto Hamsterissa (17.10.2015)</description>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep17102015.mp3" length="115183744" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep17102015.mp3</guid>
+    </item>
+
+    <!-- Episode 19 -->
+    <item>
+      <title>Kalakerho Kännikalan Rapakeli-rundilla (17.10.2015)</title>
+      <description>Kalakerho Kännikalan Rapakeli-rundilla (17.10.2015)</description>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep17102015_2.mp3" length="111215225" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep17102015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 20 -->
+    <item>
+      <title>Iltahämärä-spesiaali (10.10.2015)</title>
+      <description>Iltahämärä-spesiaali (10.10.2015)</description>
+      <pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep10102015.mp3" length="115181696" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep10102015.mp3</guid>
+    </item>
+
+    <!-- Episode 21 -->
+    <item>
+      <title>Isännöitsijä Ollin kotona (10.10.2015)</title>
+      <description>Isännöitsijä Ollin kotona (10.10.2015)</description>
+      <pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep10102015_2.mp3" length="111214363" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep10102015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 22 -->
+    <item>
+      <title>Parturiliike Salon Takatukka (3.10.2015)</title>
+      <description>Parturiliike Salon Takatukka (3.10.2015)</description>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep03102015_2.mp3" length="111199320" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep03102015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 23 -->
+    <item>
+      <title>Kuvausmatkalla Nuuksiossa (3.10.2015)</title>
+      <description>Kuvausmatkalla Nuuksiossa (3.10.2015)</description>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep03102015.mp3" length="115177600" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep03102015.mp3</guid>
+    </item>
+
+    <!-- Episode 24 -->
+    <item>
+      <title>Reino Hiltusen poikamiesboksissa (26.9.2015)</title>
+      <description>Reino Hiltusen poikamiesboksissa (26.9.2015)</description>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep26092015.mp3" length="115183744" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep26092015.mp3</guid>
+    </item>
+
+    <!-- Episode 25 -->
+    <item>
+      <title>Kölkan saaren rantakallioilla (26.9.2015)</title>
+      <description>Kölkan saaren rantakallioilla (26.9.2015)</description>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep26092015_2.mp3" length="111229416" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep26092015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 26 -->
+    <item>
+      <title>Miekkavalas-matkustajalaivalla kirjaseminaarissa (20.9.2015)</title>
+      <description>Miekkavalas-matkustajalaivalla kirjaseminaarissa (20.9.2015)</description>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep20092015.mp3" length="111291729" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep20092015.mp3</guid>
+    </item>
+
+    <!-- Episode 27 -->
+    <item>
+      <title>Ollin garderoobin uusiminen (19.9.2015)</title>
+      <description>Ollin garderoobin uusiminen (19.9.2015)</description>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep19092015.mp3" length="115184024" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep19092015.mp3</guid>
+    </item>
+
+    <!-- Episode 28 -->
+    <item>
+      <title>Adventure Centerin Extreme-kisa eläkeläisille (12.9.2015)</title>
+      <description>Adventure Centerin Extreme-kisa eläkeläisille (12.9.2015)</description>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep12092015_2.mp3" length="111292140" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep12092015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 29 -->
+    <item>
+      <title>Fredi Fågerströmin Höstfest-tapahtuma (12.9.2015)</title>
+      <description>Fredi Fågerströmin Höstfest-tapahtuma (12.9.2015)</description>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep12092015.mp3" length="115177600" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep12092015.mp3</guid>
+    </item>
+
+    <!-- Episode 30 -->
+    <item>
+      <title>Senja Korpelan kanssa pyykillä (5.9.2015)</title>
+      <description>Senja Korpelan kanssa pyykillä (5.9.2015)</description>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep05092015.mp3" length="115187840" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep05092015.mp3</guid>
+    </item>
+
+    <!-- Episode 31 -->
+    <item>
+      <title>Lievälän koululla juhlistamassa merkkipäivää (5.9.2015)</title>
+      <description>Lievälän koululla juhlistamassa merkkipäivää (5.9.2015)</description>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep05092015_2.mp3" length="111343546" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep05092015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 32 -->
+    <item>
+      <title>Kiertelemässä Helsingin keskustan ravintolakorttelissa (29.8.2015)</title>
+      <description>Kiertelemässä Helsingin keskustan ravintolakorttelissa (29.8.2015)</description>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep29082015.mp3" length="115171456" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep29082015.mp3</guid>
+    </item>
+
+    <!-- Episode 33 -->
+    <item>
+      <title>Miesten syysmuotia Pukinetalo Holmanluomassa (29.8.2015)</title>
+      <description>Miesten syysmuotia Pukinetalo Holmanluomassa (29.8.2015)</description>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep29082015_2.mp3" length="111168006" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep29082015_2.mp3</guid>
+    </item>
+
+    <!-- Episode 34 -->
+    <item>
+      <title>Suomen Lämpöeristemuovi Oy:n Ketunpesä-ravintolassa (23.8.2015)</title>
+      <description>Suomen Lämpöeristemuovi Oy:n Ketunpesä-ravintolassa (23.8.2015)</description>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep23082015.mp3" length="111245761" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep23082015.mp3</guid>
+    </item>
+
+    <!-- Episode 35 -->
+    <item>
+      <title>Taide- ja antiikkiesineiden arviointia (22.8.2015)</title>
+      <description>Taide- ja antiikkiesineiden arviointia (22.8.2015)</description>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep22082015.mp3" length="115187840" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep22082015.mp3</guid>
+    </item>
+
+    <!-- Episode 36 -->
+    <item>
+      <title>Pyykönniemessä vierailulla (16.8.2015)</title>
+      <description>Pyykönniemessä vierailulla (16.8.2015)</description>
+      <pubDate>Sun, 16 Aug 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep16082015.mp3" length="111259084" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep16082015.mp3</guid>
+    </item>
+
+    <!-- Episode 37 -->
+    <item>
+      <title>Taidepaja Ritsa city-käytävässä (15.8.2015)</title>
+      <description>Taidepaja Ritsa city-käytävässä (15.8.2015)</description>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0200</pubDate>
+      <enclosure url="https://hipster.fi/kep/shows/kep15082015.mp3" length="115177600" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://hipster.fi/kep/shows/kep15082015.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
