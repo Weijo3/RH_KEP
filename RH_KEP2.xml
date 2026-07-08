@@ -3,7 +3,7 @@
   <channel>
     <title>Koe-eläinpuisto</title>
     <link>https://hipster.fi/kep/shows/</link>
-    <atom:link href="https://raw.githubusercontent.com/Weijo3/RH_KEP/refs/heads/main/RH_KEP2.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githack.com/Weijo3/RH_KEP/refs/heads/main/RH_KEP2.xml" rel="self" type="application/rss+xml" />
     <language>fi</language>
     <description>Koe-eläinpuisto podcast - arkistoituja lähetyksiä.</description>
     <itunes:author>Koe-eläinpuisto</itunes:author>
